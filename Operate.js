@@ -156,7 +156,3 @@ contact2.addEventListener('click',()=>{
     card2.classList.remove('showRight')
     card3.classList.remove('showRight')
 })
-
-
-  
-  
